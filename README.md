@@ -1,4 +1,4 @@
-# [Live Demo]{https://netflix-clone-lac-five-13.vercel.app/}
+# [Live Demo](https://netflix-clone-lac-five-13.vercel.app/)
 
 # Netflix-Landing-Page-Clone
 
